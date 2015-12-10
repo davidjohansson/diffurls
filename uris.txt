@@ -1,0 +1,3 @@
+news-main page/nyheter?q=news-main
+news-maintop  page/nyheter?q=news-maintop
+article page/nyheter/nytt-spar-efter-mordet-pa-89-aring?q=articles

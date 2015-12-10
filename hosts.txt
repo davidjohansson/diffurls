@@ -1,0 +1,2 @@
+stage https://news-nss-api-stage.app.svt.se
+local http://localhost:8010
